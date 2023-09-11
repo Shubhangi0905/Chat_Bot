@@ -1,0 +1,38 @@
+.exit-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #FFEFD5;
+  }
+  
+  .exit-container div {
+    text-align: center;
+  }
+  
+  .exit-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333333;
+    font-family: 'Sofia',sans-serif;
+  }
+  
+  .exit-container p {
+    font-size: 16px;
+  }
+  .exit-button {
+    background-color: #527e8c;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px; 
+  }
+  
+  .exit-button:hover {
+    background-color: #4b77b1;
+  }
+  
+  
